@@ -1,0 +1,68 @@
+/* 調整輸入框大小 */
+* {
+  box-sizing: border-box;
+}
+
+/* :not() */
+
+/* input[type="text"],
+input[type="password"], */
+input:not(
+  [type="radio"],
+  [type="checkbox"],
+  [type="button"],
+  [type="submit"],
+  [type="reset"],
+  [type=color],[type=range]
+),
+textarea,
+select {
+  width: calc(100% - 100px);
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid black;
+}
+
+form {
+  width: 600px;
+  /* border: 2px solid navy; */
+}
+
+fieldset {
+  border: 2px solid navy;
+  border-radius: 25px;
+  margin-bottom: 30px;
+}
+
+/* :first-child、:last-child */
+fieldset > :last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+legend {
+  padding: 0 15px;
+}
+
+.q1 {
+  border-bottom: 2px dashed gray;
+  padding-bottom: 20px;
+  margin: 20px;
+}
+
+.t1 {
+  float: left;
+  text-align-last: justify;
+  width: 100px;
+  padding-right: 20px;
+}
+
+.btns {
+  text-align: center;
+  margin: 20px;
+}
+
+textarea {
+  /* 右下角放大縮小功能 */
+  resize: vertical;
+}

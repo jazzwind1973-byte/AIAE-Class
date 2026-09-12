@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="zh-hant-TW">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML5新增控制項</title>
+    <link rel="stylesheet" href="./styles/form.css" />
+  </head>
+  <body>
+    <h1>HTML5新增控制項</h1>
+    <form action="#">
+      <fieldset>
+        <legend>日期</legend>
+        <!-- 2026/09/02 -->
+        <div class="q1">
+          <label for="myDate" class="t1">Date</label>
+          <input
+            type="date"
+            name="userBirthday"
+            id="myDate"
+            value="2026-09-02"
+            min="2026-09-02"
+            max="2026-09-29"
+          />
+        </div>
+        <div class="q1">
+          <label for="myDatetimeL" class="t1">Datetime-Local</label>
+          <input
+            type="datetime-local"
+            name="userDatetimeLocal"
+            id="myDatetimeL"
+            value="2026-09-02T14:00"
+            min="2026-09-02T09:00"
+            max="2026-09-10T18:00"
+          />
+        </div>
+        <div class="q1">
+          <label for="myTime" class="t1">time</label>
+          <input
+            type="time"
+            name="userTime"
+            id="myTime"
+            value="14:00"
+            min="09:00"
+            max="18:00"
+          />
+        </div>
+        <div class="q1">
+          <label for="myMonth" class="t1">month</label>
+          <input
+            type="month"
+            name="userMonth"
+            id="myMonth"
+            value="2026-06"
+            min="2024-01"
+            max="2027-12"
+          />
+        </div>
+        <div class="q1">
+          <label for="myWeek" class="t1">week</label>
+          <input
+            type="week"
+            name="userWeek"
+            id="myWeek"
+            value="2026-W40"
+            min="2026-W10"
+            max="2026-W52"
+          />
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>文字輸入</legend>
+        <div class="q1">
+          <label for="myEmail" class="t1">email</label>
+          <input
+            type="email"
+            name="userEmail"
+            id="myEmail"
+            placeholder="請輸入您的信箱"
+            value=""
+            required
+            autocomplete="off"
+            autofocus
+          />
+        </div>
+        <div class="q1">
+          <label for="mySearch" class="t1">search</label>
+          <input type="search" name="userSearch" id="mySearch" />
+        </div>
+        <div class="q1">
+          <label for="myTelephone" class="t1">tel</label>
+          <input
+            type="tel"
+            name="userTelephone"
+            id="myTelephone"
+            pattern="^[0][9]\d{8}$"
+            maxlength="10"
+            value="0912345678"
+            readonly
+          />
+        </div>
+        <div class="q1">
+          <label for="myUrl" class="t1">url</label>
+          <input
+            type="url"
+            name="userUrl"
+            id="myUrl"
+            placeholder="https://www.example.com.tw"
+          />
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>驗證碼</legend>
+        <div class="q1">
+          <label for="myCode" class="t1">one-time-code</label>
+          <input
+            type="text"
+            maxlength="6"
+            inputmode="numeric"
+            id="myCode"
+            name="userOneTimeCode"
+          />
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>其餘</legend>
+        <div class="q1">
+          <label for="myColor" class="t1">color</label>
+          <input type="color" name="userColor" id="myColor" value="#6869e2" />
+        </div>
+        <div class="q1">
+          <label for="myRange" class="t1">range</label>
+          <input
+            type="range"
+            name="userRange"
+            id="myRange"
+            value="80"
+            min="0"
+            max="100"
+            step="20"
+          />
+          <span id="rangeOutput"></span>
+        </div>
+        <div class="q1">
+          <label for="myNumber" class="t1">number</label>
+          <input
+            type="number"
+            name="userNumber"
+            id="myNumber"
+            value="100"
+            min="0"
+            max="100"
+            step="10"
+          />
+        </div>
+      </fieldset>
+      <div class="btns">
+        <button type="submit">送出</button>
+      </div>
+    </form>
+
+    <script>
+      const rangeInput = document.querySelector("#myRange");
+      const rangeOutput = document.querySelector("#rangeOutput");
+
+      rangeOutput.innerText = rangeInput.value;
+
+      rangeInput.addEventListener("input", function () {
+        rangeOutput.innerText = this.value;
+      });
+    </script>
+  </body>
+</html>

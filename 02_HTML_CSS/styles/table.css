@@ -1,0 +1,26 @@
+table {
+  width: 1200px;
+  border: 5px solid black;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid gray;
+  text-align: center;
+  height: 50px;
+}
+
+thead > tr {
+  background-color: #9a0036;
+  color: white;
+}
+
+/* nth-child(數字、2n/2n+1、odd/even) */
+tbody > tr:nth-child(odd) {
+  background-color: #cccccc;
+}
+
+tbody tr:hover{
+    background-color: pink;
+}
