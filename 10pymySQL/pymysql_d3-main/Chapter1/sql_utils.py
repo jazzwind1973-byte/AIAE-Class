@@ -1,0 +1,29 @@
+# 引入所需套件
+
+import pymysql
+from configparser import ConfigParser
+
+config = ConfigParser()
+config.read("config.ini")
+
+# 讀取 config.ini 檔案取得資料庫連線資訊
+
+def sql_query(query):
+    connection =pymysql.connect(
+        host=config.get('DB','host'),
+        user=config.get('DB','user'),
+        password=config.get('DB','password'),
+        port=config.getint('DB', 'port'),
+        cursorclass=pymysql.cursors.DictCursor,
+        
+    )
+
+    with connection.cursor() as cursor:
+        cursor.execute(query)
+        result = cursor.fetchall()
+
+    return result
+
+
+
+# 建立 function 執行 SQL 查詢
