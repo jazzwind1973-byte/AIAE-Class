@@ -48,10 +48,27 @@ class SqlManager:
             tables = cursor.fetchall()
 
         return tables
-        def close(self):
-            self.connection.Close()
+    def close(self):
+        self.connection.Close()
 
 # 查詢使用者的 function
+    def get_user(self, username):
+        with self.connection.cursor() as cursor:
+        sql = """
+SELECT *FROM user WHERE username = %s
 
+"""
+        cursor.execute(sql,(username,))
+    result = cursor.fetchall()
 
 # 建立寫入使用者的 function
+
+    def create_user(self, name, age, username, password):
+        with self.connection.cursor() as cursor:
+            sql = f"""
+                INSERT INTO user (name, age, username, password)
+                VALUES('{name}', '{age}', '{username}', '{password}')
+            """
+
+
+#def update_password 更新使用者的密碼
