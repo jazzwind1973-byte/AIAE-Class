@@ -1,0 +1,17 @@
+1. https://leetcode.com/problems/two-sum/
+2. https://leetcode.com/problems/number-of-good-pairs/
+3. https://leetcode.com/problems/palindrome-number/
+4. https://leetcode.com/problems/length-of-last-word/
+5. https://leetcode.com/problems/find-words-containing-character/
+6. https://leetcode.com/problems/smallest-even-multiple/
+7. https://leetcode.com/problems/pascals-triangle/
+8. https://leetcode.com/problems/valid-anagram/
+9. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+10. https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+11. https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+12. https://leetcode.com/problems/power-of-two/
+13. https://leetcode.com/problems/contains-duplicate/
+14. https://leetcode.com/problems/contains-duplicate-ii/
+15. https://leetcode.com/problems/find-subarrays-with-equal-sum/
+16. https://leetcode.com/problems/merge-sorted-array/
+17. https://leetcode.com/problems/number-of-arithmetic-triplets/
