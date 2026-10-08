@@ -38,8 +38,12 @@ def sql_query(query, params=None):
 def get_category_chart_data() -> list[dict[str, int]]:
     # 計算每個主類別的產品訂單數量
     category_query = """
-
+        SELECT p.category AS label, COUNT(*) AS value FROM products p
+        JOIN orderdetails o ON p.product_id = o.product_id
+        GROUP BY category;
     """
+
+    result = sql_query(category_query)
 
     """
     將資料整理成
@@ -49,15 +53,18 @@ def get_category_chart_data() -> list[dict[str, int]]:
         ...
     ]
     """
-
-
-    return ""
+    return result
 
 def get_sub_category_chart_data(category):
     # 計算某個主類別，其子類別的產品訂單數量
     sub_category_query = """
-
+        SELECT p.sub_category AS label, COUNT(*) AS value FROM products p
+        JOIN orderdetails o ON p.product_id = o.product_id
+        WHERE p.category = %s
+        GROUP BY sub_category;
     """
+
+    result = sql_query(sub_category_query, category)
 
     """
     將資料整理成
@@ -68,13 +75,23 @@ def get_sub_category_chart_data(category):
     ]
     """
 
-    return ""
+    return result
 
 def get_products_and_order_details():
-    # 取得 products 和 order_details 的資料
+    # 取得 products 和 order_details 的資料,
+    
+    # 計算產品的銷售額總和
+    # 計算該產品的利潤總和
+    
+    # 最後回傳的 profit 要計算利潤率 (利潤率 = 利潤/銷售*100)  
+    # 可以查詢出來再計算就好
     products_order_details_query = """
-
+        SELECT p.category, p.sub_category, p.product_name, SUM(o.sales) AS sales, SUM(o.profit) AS profit FROM products p
+        JOIN orderdetails o ON p.product_id = o.product_id
+        GROUP BY category, sub_category, product_name
     """
+
+    result = sql_query(products_order_details_query)
 
     """
     從 SQL 取得以下資料
@@ -88,8 +105,9 @@ def get_products_and_order_details():
     ];
     """
 
-    products_and_order_details_result = []
-    sub_category = []
+    products_and_order_details_result = [{**i, 'profit': round(i['profit']/i['sales']*100, 2)} for i in result]
+    # 去重複之後的 subcategory
+    sub_category = list(set([i['sub_category'] for i in result]))
 
     # 回傳 products_and_order_details_result 以及 所有的子類別名稱
     return products_and_order_details_result, sub_category

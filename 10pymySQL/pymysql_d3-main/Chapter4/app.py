@@ -7,6 +7,7 @@ from chart_data import get_category_chart_data, \
 app = Flask(__name__)
 
 
+# 網頁要訪問的 path
 @app.route('/say_hello')  # Python 內建的裝飾詞，讓Flask監聽此URL 並return 返還結果
 def hello_world():
     return 'Hello, World!'
