@@ -1,0 +1,1164 @@
+[
+    {
+        "編號": 1,
+        "發布日期": "20260805",
+        "職缺名稱": "EN10397 自動化測試程式開發工程師(伺服器)",
+        "工作內容": "1. Server產品測試自動化程式撰寫及驗證，撰寫測試計畫或案例設計等相關工作。\r\n2. 自動化系統架設、使用及撰寫版控系統、CICD相關工具、自動化測試 framework及GUI測試工具。",
+        "公司名稱": "華碩電腦股份有限公司",
+        "產業描述": "電腦及其週邊設備製造業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/7e42i"
+    },
+    {
+        "編號": 2,
+        "發布日期": "20260930",
+        "職缺名稱": "【諮詢服務】數位化與新興科技諮詢 - 品質保證軟體測試工程師",
+        "工作內容": "職位摘要：在我們的團隊中，您將成為關鍵的一員，扮演品質保證軟體測試工程師的角色。您將參與到項目的每一階段，從需求討論、開發、測試到維護，並從品質保證和測試的角度來提升我們產品的可靠性。我們追求的不只是找出問題，更是通過您的專業能力和深思熟慮，找到真正可以解決問題的策略和方案。\n\t\n1. 作為開發團隊的一部分，參與需求討論、開發、測試和維護階段，以提升產品的可靠性。\n2. 設計並執行測試計劃和案例。\n3. 辨識程式缺陷的根本原因，清楚記錄重現問題的步驟，回報問題以待解決，並持續優化測試案例。\n4. 協助專案經理製作文件以及內部合作。",
+        "公司名稱": "安永聯合會計師事務所",
+        "產業描述": "會計服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/82dkl"
+    },
+    {
+        "編號": 3,
+        "發布日期": "20260929",
+        "職缺名稱": "【研究發展處】SQA Engineer / 軟體測試工程師 (QA Department)",
+        "工作內容": "職務需求:\n- 前端網頁自動化測試\n- 後端數據資料比對\n- 產出測試報告\n- 撰寫自動測試\n\n希望您具備:\n- 條理清楚並易與他人溝通\n- 細心且負責任的精神\n- 對未知問題與資料的好奇心\n\n程式語言:\n- Python\n- SQL  \n\n作業系統:\n- Linux\n- Windows",
+        "公司名稱": "現觀科技股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001001007",
+                "description": "Linux"
+            },
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001004032",
+                "description": "MySQL"
+            },
+            {
+                "code": "12001002021",
+                "description": "Claude"
+            },
+            {
+                "code": "12001002017",
+                "description": "Jenkins"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/84kn3"
+    },
+    {
+        "編號": 4,
+        "發布日期": "20260930",
+        "職缺名稱": "【外商軟體／IoT】Senior Quality Assurance Engineer｜自動化測試｜Azure",
+        "工作內容": "我們正在尋找一位具備 System-level QA、Automation Testing 及問題分析能力的 Senior Quality Assurance Engineer。\n\n你將參與跨平台 Agent、Cloud Service 與 IoT 平台的品質驗證，與 Backend、Frontend、Cloud、DevOps 及 PM 等團隊密切合作。\n\n這個職位不只是「執行測試」，而是需要從產品需求、系統架構、跨平台相容性及品質風險的角度，規劃測試策略並提前發現潛在問題。\n\n如果你喜歡深入分析問題、建立自動化測試、處理跨系統整合問題，並希望從傳統 QA 往 Quality Engineering / Automation / System QA 發展，會很適合這個職位。\n\n【主要工作內容】\n\n・負責大型系統、跨平台功能及產品線之品質驗證規劃與執行\n・設計及維護 Test Plan、Test Case 與 Test Strategy\n・執行 Functional / Integration / E2E / Regression / Exploratory Testing\n・進行 Windows、Linux、Android Agent 與 Cloud 平台整合驗證\n・進行 Azure IoT Hub 相關功能驗證\n・執行 API Testing、自動化測試及跨系統整合測試\n・設計、開發及維護 Automation Test Framework\n・執行版本升級、跨平台相容性及 Regression Test\n・分析跨平台、跨系統及高複雜度問題，進行 Root Cause Analysis（RCA）\n・規劃 Performance / Stress / Reliability Testing\n・建立 Logging、Monitoring 及品質追蹤機制\n・撰寫測試文件、驗證報告及品質風險評估\n・參與 Requirement Review、Design Review 及 Release Assessment\n・推動 Test Automation、Testing Engineering 及 Quality Improvement\n・協助 Mentoring 初階及中階 QA Engineer\n\n【必要條件】\n\n・3 年以上 Software Testing / QA / Quality Engineering 相關經驗\n・熟悉軟體測試方法、Test Design 及 Bug Management\n・具備 API / Integration / System / End-to-End Testing 經驗\n・具 Windows、Linux 或 Android 平台測試及問題分析經驗\n・具跨平台、跨系統整合測試經驗\n・具 Automation Testing 開發經驗，熟悉 Python、Playwright、Selenium、Robot Framework 或相關工具\n・熟悉 Log Analysis 及 Root Cause Analysis\n・熟悉 HTTP/HTTPS、REST API、JSON、MQTT 等通訊協定或資料格式\n・具 TCP/IP、TLS、Timeout、Retry、Connection Management 等網路基礎概念\n・具備獨立分析複雜問題及找出 Root Cause 的能力\n・具良好文件撰寫及跨部門溝通能力\n\n【加分條件】\n\n・Azure IoT Hub / IoT Device Management / MDM 經驗\n・熟悉 Device Twin、Telemetry、Direct Method、IoT Device Lifecycle\n・具 Azure Monitor、Application Insights 或 Log Analytics 經驗\n・熟悉 Docker、GitHub Actions、CI/CD 或 DevOps Pipeline\n・具 Performance / Stress / Reliability Testing 經驗\n・具 SaaS Platform Testing 經驗\n・具 Security Testing、OWASP Top 10 或基本資安驗證概念\n・具 Test Framework 建置及 Testing Engineering 經驗\n・具 AI-assisted Testing / Test Case Generation / Automation 經驗\n・具大型產品或跨團隊產品交付經驗\n\n【技術環境】\n\nPlatform： Windows / Linux / Android\nCloud： Azure IoT Hub / Azure Functions / App Service / Storage Account\nProtocol： HTTP/HTTPS / REST API / MQTT / WebSocket\nAutomation： Python / Playwright / Selenium\nTesting： API / Integration / E2E / Performance Testing\nObservability： Application Insights / Azure Monitor / Log Analytics\nDevOps： Git / GitHub Actions / Docker / CI/CD\nCollaboration： Jira / Confluence",
+        "公司名稱": "百仕聯股份有限公司",
+        "產業描述": "人力仲介代徵",
+        "最低薪資": 100000,
+        "最高薪資": 140000,
+        "學歷要求代碼清單": [
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001003045",
+                "description": "Python"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/96b2i"
+    },
+    {
+        "編號": 5,
+        "發布日期": "20260928",
+        "職缺名稱": "Python程式設計師(PG)(臺北市南港區)",
+        "工作內容": "【技術需求】\nPython 開發經驗 2 年以上\n熟悉 pandas、openpyxl、xlsxwriter 及 pymupdf、tabula 等 Python 文件處理套件\n熟悉 selenium、playwright 等 Python 瀏覽器自動化套件\n具備資料處理、報表自動化或 ETL 開發經驗\n具備 RPA 流程自動化相關經驗尤佳",
+        "公司名稱": "艾帝浦杰股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 55000,
+        "最高薪資": 65000,
+        "學歷要求代碼清單": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001003045",
+                "description": "Python"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8zy25"
+    },
+    {
+        "編號": 6,
+        "發布日期": "20260929",
+        "職缺名稱": "QA工程師",
+        "工作內容": "1. 根據產品需求及業務邏輯量身打造測試計畫，撰寫測試案例，\n    對產品功能執行自動或手動測試。 \n2. 持續追蹤問題進度，有效管理 Issue 處理情況，可配合 Scrum 模式進行測試討論。 \n3. 熟悉功能測試、軟體整合測試、測試環境建置規劃。 \n4. 撰寫測試報告，提出改善建議，追蹤問題並與相關人員緊密合作。",
+        "公司名稱": "集星資通股份有限公司",
+        "產業描述": "電腦系統整合服務業",
+        "最低薪資": 500000,
+        "最高薪資": 800000,
+        "學歷要求代碼清單": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001003025",
+                "description": "Java"
+            },
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001003080",
+                "description": "Go"
+            },
+            {
+                "code": "12001006034",
+                "description": "Node.js"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8fzj9"
+    },
+    {
+        "編號": 7,
+        "發布日期": "20260928",
+        "職缺名稱": "前端測試工程師(TQA)(台北市信義區)(A0009)",
+        "工作內容": "【年資經驗】\n3年以上軟體開發或測試經驗\n\n【技術需求】\n1、具備至少一項程式或腳本語言的開發經驗，如: JavaScript,HTML, Python或ShellScript以及熟悉任一工具Selenium、Cypress、Playwright、Jmeter、Postman\n2、具備測試案例撰寫、功能測試、整合測試、使用者測試(Usability testing)、問題追蹤處理(Bug tracking)等測試實務經驗兩年以上。\n\n【加分項目】\n1、熟悉敏捷式(Agile)軟體開發流程\n2、曾經參與過相關金融產業商品的開發/測試，如銀行、壽險或產險等\n3、具有API Testing或LoadTesting的相關經驗",
+        "公司名稱": "艾帝浦杰股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 45000,
+        "最高薪資": 50500,
+        "學歷要求代碼清單": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8zmq8"
+    },
+    {
+        "編號": 8,
+        "發布日期": "20260929",
+        "職缺名稱": "［UPD］AI 測試工程師 AI Quality Engineer",
+        "工作內容": "✨ 團隊任務與介紹\n91APP 為國內首家掛牌上櫃的原生 SaaS 軟體服務公司，提供「虛實融合(OMO)」新零售軟體雲服務，協助零售品牌快速切入電商市場。我們致力於協助品牌進行數位轉型，已成功協助諸多品牌完成新零售佈局，隨著互聯網快速演進發展，不少大型零售實體品牌面臨直接衝擊，數位轉型勢不可擋，迄今服務客戶累計破萬家，更涵蓋多家國內外大型品牌商家。\n\n我們正在尋找能結合傳統 QA 技能與 AI 工具的新世代品質工程師。\n在這個角色中，你將運用 LLM（ChatGPT、Claude、Gemini）、AI 視覺辨識、Cursor IDE 等工具，設計與執行更智慧化的測試流程，提升產品品質與測試效率。\n公司提供 AI 工具培訓，歡迎 QA 工程師或具資工/資管背景者轉型！\n\n✨ 你將負責的任務\n（1）AI 驅動測試設計\n1.使用 LLM 輔助生成測試案例\n-運用 Claude、GPT 等 LLM 分析需求文件，自動生成完整測試案例\n-利用 AI 識別潛在風險區域，生成針對性的邊界測試與異常場景\n\n（2）自動化測試\n1.AI 視覺化測試\n-使用 AI 工具自動識別 UI 元素，生成穩定的自動化腳本\n\n（3）測試執行\n1.功能測試\n-撰寫詳細的測試計劃與測試案例文檔\n-執行功能測試，確保產品符合需求規格\n-執行探索性測試，發現潛在問題\n-進行跨瀏覽器、跨裝置相容性測試\n2.缺陷管理\n-發現、記錄並追蹤缺陷生命週期\n-撰寫清晰詳細的缺陷報告\n-與開發團隊協作進行缺陷重現與驗證\n-執行缺陷修復後的回歸測試\n\n✨ 我們希望你具備\n（1）AI 技術能力（必備）\n1.LLM 應用經驗\n-熟練使用 Claude、ChatGPT、Gemini 等 LLM 工具\n-具備 Prompt Engineering 能力，能撰寫結構化提示詞（角色、任務、輸出格式）,建立可-重複使用的 Prompt 模板\n了解 LLM 的能力邊界與最佳應用場景，能根據任務選擇適合的 AI 模型\n\n（2）AI 開發工具\n-了解 Cursor IDE AI 輔助開發工具，了解如何讓 AI 理解需求上下文進行協作\n-了解 MCP (Model Context Protocol) 基本概念\n\n（3）測試基礎（必備）\n1.核心測試技能\n-熟悉測試技術（等價類劃分、邊界值分析、決策表、狀態轉換測試等）\n-了解各類測試類型（功能、整合、系統、回歸、探索性測試）\n具備風險導向測試的概念\n2.工具使用能力\n-API 測試經驗（Postman、REST Assured、SoapUI）\n-缺陷管理工具（JIRA、Azure DevOps、Bugzilla）\n-基礎 SQL 查詢與資料驗證能力\n-Git 版本控制使用經驗\n-熟悉瀏覽器開發者工具（Chrome DevTools）\n3.文檔與報告能力\n-能撰寫清晰的測試計劃、測試案例、測試報告\n-具備良好的缺陷描述能力（重現步驟、預期結果、實際結果）\n\n（4）領域知識\n1.技術理解\n-基本的前後端架構概念\n-了解 HTTP/HTTPS、RESTful API 基礎\n-了解資料庫基本概念與 SQL 操作\n2.流程與方法論\n-熟悉軟體開發生命週期（SDLC）\n-了解測試生命週期\n\n（5）軟技能\n1.創新思維\n-願意嘗試新的 AI 工具與技術\n-能夠評估並導入適合的 AI 解決方案\n-具備持續學習 AI 技術的熱情\n2.協作能力\n-熟悉敏捷開發流程（Scrum/Kanban）\n-良好的跨團隊溝通能力（與 PM、RD、UI/UX 協作）\n-具備問題解決與批判性思考能力\n\n✨ 加分條件\n1.進階 AI 經驗\n-實際導入 AI 工具改善測試流程的成功案例\n-了解 RAG (Retrieval-Augmented Generation) 在測試的應用\n2.進階技能\n-熟悉網頁技術（HTML、CSS、JavaScript 基礎）\n-至少熟悉一種自動化框架（Playwright、Cypress、Selenium）\n\n✨ 關於我們的團隊文化\n91APP 的工作日常 = 學習 × 成長 × 歡樂\n在 91APP，好的工作氛圍不只是空間，而是大家一起「學、問、成長」的日常\n✔  一起學與分享：讀書會、學習社群遍地開花，讓知識自然流動\n✔  擁抱改變、持續成長：勇於嘗試新工具、投資在人的成長\n✔  為長遠而建：做事不求快，而求穩；每次改進都讓未來更順\n✔  讓討論更有方向：鼓勵提問、釐清問題，讓合作更有效率\n✔  科技以人為本：用AI放大人的影響力，讓成果更貼近使用者\n\n✨到職後我們提供\n✔  完整的新人訓練計畫\n✔  資深工程師指導 (Mentor 制度)\n✔  定期AI技術分享與討論，分享最新 AI 開發工具與應用\n✔  先進的 AI 開發環境，團隊已將 AI 深度整合至開發流程\n✔  參與開發 AI 功能的機會，站在技術前沿\n✔  持續學習與成長的機會，清晰的職涯發展路徑\n\n✨ 更多技術動態與分享，歡迎追蹤 91APP Tech FB：https://www.facebook.com/91apptech",
+        "公司名稱": "91APP_英屬開曼群島商九一應用軟體股份有限公司台灣分公司",
+        "產業描述": "網際網路相關業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8tnyd"
+    },
+    {
+        "編號": 9,
+        "發布日期": "20260918",
+        "職缺名稱": "測試工程師 - 軟體 / 自動化(SoftwareQA)",
+        "工作內容": "【關於你】\n我們希望你是擁有以下特質的人：\n- 積極負責：積極完成工作，並把水準做到最好\n- 主動貢獻：對於不屬於自己負責的問題也願意思考與提出解法\n- 持續學習：喜歡新事物，不會輕易滿於現況，勇於突破舒適圈\n- 喜歡團隊合作：願意主動與各部門同事溝通，一同解決問題\n\n【工作內容】\n - 規劃及執行UI 相關驗證\n - 協助開發人員進行 bug 驗證、及問題釐清。\n- 運用工具提升 QA 工作效率。\n \n【必要條件】\n- Python、selenium \n\n【加分條件】\n- 熟悉 TCP/IP\n\n【待遇】\n- 休假優於勞基法、年終保証 1個月 + 獎金(與績效相關)、股票選擇權 (與績效相關)",
+        "公司名稱": "貝森碼科技有限公司",
+        "產業描述": "其它軟體及網路相關業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            3,
+            4
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001007071",
+                "description": "TCP/IP"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8xlb0"
+    },
+    {
+        "編號": 10,
+        "發布日期": "20260929",
+        "職缺名稱": "Software QA Engineer",
+        "工作內容": "1. 設計測試計畫與測試案例。\n2. 測試與驗證軟體模組之功能、相容性、效能、壓力承載、可靠度等。\n3. 維護測試環境及測試工具。\n4. 分析測試資料、釐清問題、提出改善建議。",
+        "公司名稱": "基點資訊股份有限公司",
+        "產業描述": "網際網路相關業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            3,
+            4,
+            5
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001001007",
+                "description": "Linux"
+            },
+            {
+                "code": "12001005017",
+                "description": "Vmware"
+            },
+            {
+                "code": "12001007043",
+                "description": "LDAP"
+            },
+            {
+                "code": "12001007070",
+                "description": "ssh"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8sosy"
+    },
+    {
+        "編號": 11,
+        "發布日期": "20260917",
+        "職缺名稱": "科技部＿Junior 測試開發工程師 Junior Software Development Engineer in Test (SDET)",
+        "工作內容": "我們的願景是打造地球上最好的金融工具與產品，讓金融服務更加安全、可靠與高效率。在金融科技系統中，交易撮合、帳務處理、結算清算與外部整合之間的資料流極其複雜，任何測試上的疏忽都可能影響交易正確性、財務數據完整性、甚至合規風險。我們正在建立一支新世代 AI 輔助測試團隊——透過 AI 輔助測試設計來達成測試流程自動化，透過 AI + Automation 讓測試效率與品質同步提升。\n\n【角色定位】\n作為 Junior SDET，你將加入金融系統品質工程團隊，在資深工程師的指導下，參與核心交易系統、帳務系統與第三方整合服務的測試工作。你不只是執行測試，更會學習運用 AI 工具來加速測試設計與執行，逐步成長為能獨當一面的測試工程師。\n\n【工作職責】\n1. 測試執行與缺陷管理\n- 參與產品與系統需求分析，根據交易流程、帳務規則與業務情境設計測試案例\n- 執行功能測試、API 測試與系統整合測試，涵蓋交易下單、帳務沖銷、對帳報表等場景\n- 與開發工程師、產品經理協作，快速定位缺陷根因並完成缺陷追蹤與回報\n- 參與測試資料準備與測試環境驗證，確保測試環境與資料的可靠性\n\n2. 自動化測試與 AI 輔助\n- 撰寫基礎自動化測試腳本（API 測試／UI 測試），逐步提升測試自動化覆蓋率\n- 運用 AI 工具（如 ChatGPT、Claude）輔助產生測試案例、測試資料與測試腳本\n- 協助建立與維護測試文件，推動測試流程標準化\n\n【你將在團隊中學會】\n我們重視每位成員的成長，以下是你加入後將逐步培養的核心能力：\n\nAI 驅動測試能力\n- 運用 LLM 自動生成測試案例與測試腳本，大幅縮短測試設計時間\n- 使用 AI 工具進行測試資料生成與邊界值分析\n\n測試自動化能力\n- 建立 API 自動化測試框架，實現關鍵業務流程的回歸測試\n- 理解 CI/CD Pipeline 中的測試整合與自動觸發機制\n\n金融測試專業\n- 分析金融系統資料流與測試風險，掌握交易、帳務、結算的測試要點\n- 建立與維護測試知識庫，累積金融領域測試經驗\n\n必備條件(Must Have)\n- 0–3 年軟體測試、QA 或軟體開發相關經驗\n- 理解 RESTful API 基本概念，能使用 Postman 或類似工具進行 API 呼叫與驗證\n- 具備基本 SQL 查詢能力，能撰寫 SELECT / JOIN 進行資料驗證\n- 熟悉 SQL 與資料驗證，能設計複雜查詢進行端到端資料一致性驗證\n- 了解軟體開發生命週期（SDLC）與敏捷開發流程\n- 具備邏輯分析能力與系統性問題排查思維\n- 對自動化測試與 AI 輔助測試工具有學習熱情",
+        "公司名稱": "美好證券股份有限公司",
+        "產業描述": "證券及期貨業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8zxei"
+    },
+    {
+        "編號": 12,
+        "發布日期": "20260921",
+        "職缺名稱": "測試工程師 QA Engineer",
+        "工作內容": "【工作內容 Responsibilities】\n我們正在開發 新世代 AI ERP 系統。此職位將擔任專案的 品質守門員，確保系統交付「零重大錯誤」。在前期需規劃測試流程與案例，中後期需全面執行模組測試、整合測試與驗收測試，避免因單據錯誤造成客戶營運與商譽風險。\n\n具體工作內容：\n1. 規劃與撰寫測試計畫（含測試範圍、策略、排程）。\n2. 設計與維護測試案例（模組測試、整合測試、UAT 驗收測試）。\n3. 使用自動化測試工具（Selenium、Cypress 等）進行回歸測試。\n4. 執行手動測試，驗證 ERP 功能流程（如訂單建立、出貨、報表生成）。\n5. 撰寫測試報告，整理缺陷清單，並追蹤修復狀態。\n6. 與後端、前端工程師合作，重現並驗證缺陷。\n7. 協助客戶 UAT（User Acceptance Testing），蒐集使用者回饋並轉化為改進建議。\n\n\n【工作技能 Required Skills】\n硬技能 Hard Skills：\n1. 熟悉軟體測試流程與方法論（單元測試、整合測試、回歸測試）。\n2. 熟悉自動化測試框架（Selenium、Cypress、Playwright 任一）。\n3. 熟悉 API 測試工具（Postman、Swagger）。\n4. 能撰寫測試文件（測試案例、測試報告、缺陷追蹤）。\n\n軟技能 Soft Skills：\n1. 細心嚴謹，對流程與細節高度敏感。\n2. 良好的跨部門協作能力，能有效和工程師溝通問題。\n3. 對品質有責任感，能堅持標準，避免低品質交付。\n\n\n【工作條件 Qualifications】\n1. 2–4 年軟體測試經驗，具 ERP、金融、零售或 B2B 系統測試背景尤佳。\n2. 熟悉自動化測試工具與 API 測試經驗。\n3. 學歷不限，資訊相關背景佳。\n4. 有 ISTQB 或相關測試證照者加分。\n\n\n【工作待遇 Compensation】\n年薪範圍：NTD 550,000 – 850,000（13 個月制，含年終）。\n\n\n【公司介紹 About Hihealth】\nHihealth設立於2017年，致力於開發生成式的健康AI系統，幫助使用者以及健康產業提高效能。創辦團隊由台大組成，結合醫療知識與AI技術，建立個人化的健康AI助理，能夠替使用者快速提供合適的健康資訊與服務。\n\n此外，我們同時也替健康產業提供轉型服務，除了提高健康品牌產品與服務的銷售轉化超過35%，同時也提供醫療單位輔助，能夠節省30%以上的醫師看診時間，幫助舒緩人口老化帶來的醫療負荷。\n\n紮實的技術實力也讓Hihealth榮獲海內外各大創新獎項，並積極往國際拓展，目前已設立香港分公司，每月AI銷售的產品總額已超過200萬港幣，同時與菲律賓、新加坡、馬來西亞、杜拜、阿布達比、韓國、越南、印尼等地合作方建立連結，以實際行動證實AI健康的落地應用，創造台灣AI新奇蹟。\n\n【團隊文化】\n我們是一群對AI商業化應用充滿熱情的工程師，崇尚開放的思想與工作環境，鼓勵創新思維，並堅信跳脫框架是取得成功的關鍵。這個產業還處於萌芽階段，所有的事情都不存在標準答案，而我們團隊將努力成為AI商應應用的拓荒者。在Hihealth，你將參與各種富挑戰性的開發項目，推動技術創新，這將讓你成為一個更好的工程師，同時也能與優秀的同事共同成長。",
+        "公司名稱": "您好健康網路科技股份有限公司",
+        "產業描述": "其它軟體及網路相關業",
+        "最低薪資": 550000,
+        "最高薪資": 850000,
+        "學歷要求代碼清單": [
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8tgoy"
+    },
+    {
+        "編號": 13,
+        "發布日期": "20260929",
+        "職缺名稱": "66114-軟體品質驗證工程師",
+        "工作內容": "【工作內容】\n1. 規劃與執行軟體產品之測試計畫、測試案例設計與測試執行 (功能/回歸/壓力/相容性測試/整合性測試等)。\n2. 運用 AI 輔助工具加速測試案例設計與規格驗證，提升測試覆蓋率與效率。\n3. 開發與維護自動化測試腳本，建立可持續整合的測試流程。\n4. 進行缺陷追蹤管理，與研發工程師協作確認問題重現與修正驗證。\n5. 視專案狀況參與敏捷 Scrum 開發流程。\n6. 思考數位流程自動化與流程改善並提升自動化與產品品質。\n\n【加分條件】\n・熟悉自動化測試框架 (Pytest / Robot Framework / Selenium)\n・具備 API 測試或 Linux 環境操作經驗\n・有敏捷 (Scrum) 或規格驅動開發 (Spec-Driven Development) 實務經驗\n・對 AI 開發工具 (GitHub Copilot / Claude Code 等) 有實際使用經驗\n・對儲存、雲端、網路產品有興趣或相關經驗",
+        "公司名稱": "QNAP_威聯通科技股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001001007",
+                "description": "Linux"
+            },
+            {
+                "code": "12001002018",
+                "description": "Git"
+            },
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001008036",
+                "description": "Scrum"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/9250s"
+    },
+    {
+        "編號": 14,
+        "發布日期": "20260929",
+        "職缺名稱": "軟體測試工程師(QA001)",
+        "工作內容": "+ 具備撰寫 Test Plan(測試計畫書)、Test Case(測試案例) 實務經驗\r\n+ 具備建立 Test Environment(測試環境) 實務經驗\r\n+ 具備執行、分析、統整測試數據，撰寫 Test Report(測試報告) 實務經驗 \r\n+ 具備利用 SQL Command 進行資料驗證實務經驗\r\n+ 工作態度積極、負責，重視團隊溝通合作 \r\n+ 不當獨行俠，行有餘力時會主動支援及協助\r\n\r\n加分 \r\n++ 具備 Function testing(功能測試)、Integration testing(整合測試)、Usability testing(使用者測試)、Bug tracking(問題追蹤處理)等測試實務經驗\r\n++ 有撰寫 Unit Test 經驗 \r\n++ 重視程式碼效能\r\n++ 熱愛學習及挑戰新技術\r\n++ 有個人技術相關 Blog 可供參考 \r\n\r\n大大大加分\r\n+++ 熟悉 Automation testing(自動化測試)、Security testing(安全性測試)、Stress testing(壓力測試)\r\n+++ 熟悉 Selenium、JMeter、Bugzilla、Mantis、Jira、QTP、LoadRunner 等(任一即可)安裝、設定及操作\r\n+++ 使用過 Docker 等 Container 相關技術 \r\n+++ 熟悉 CI/CD 流程及架設經驗 \r\n+++ 熟悉 Git、GitHub\r\n+++ 有個人 Side Project 可供參考\r\n+++ 有使用雲端平台經驗，Google Cloud Platform (GCP)、 Amazon Web Service (AWS)、 Microsoft Azure (Azure)任一即可\r\n+++ 熟悉敏捷式開發(Agile)，有採用 Scrum 實戰專案經驗",
+        "公司名稱": "祐安資訊有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/6709o"
+    },
+    {
+        "編號": 15,
+        "發布日期": "20260929",
+        "職缺名稱": "金融服務事業群 -  自動化測試工程師",
+        "工作內容": "我們正在建置金融服務事業群的自動化測試與品質工程體系，主要負責金融 App 及相關服務的自動化測試，透過測試框架、測試腳本及 CI/CD 流程，降低人工測試成本並提升產品品質。\n\n如果你對 App 自動化測試、Python、Appium、API 測試及測試工具開發有興趣，歡迎加入我們，一起將測試流程從「人工執行」逐步轉型為「自動化驗證」。\n\n### 主要工作內容\n\n1. **App 自動化測試**\n   • 使用 Appium 等自動化測試工具，開發及維護 iOS / Android App 自動化測試腳本。\n   • 將重複性高的測試流程逐步自動化。\n   • 建立可重複執行的 Regression Test，協助提升版本驗證效率。\n\n2. **測試框架與工具開發**\n   • 使用 Python 開發及維護自動化測試框架。\n   • 設計測試案例、測試資料及共用測試元件，提高測試腳本的可維護性與重用性。\n   • 開發測試輔助工具，協助測試環境、測試資料及測試結果管理。\n\n3. **API / Backend 自動化測試**\n   • 建立 REST API / 自訂Socket API等服務的自動化測試。\n   • 進行 API 功能、資料驗證及異常情境測試。\n   • 協助建立 App 與後端服務的整合測試流程。\n\n4. **CI/CD 與測試自動化**\n   • 將自動化測試整合至 CI/CD Pipeline。\n   • 建立自動執行、測試結果彙整及失敗通知機制。\n   • 協助建立每日／每次版本建置的自動化驗證流程。\n\n5. **品質工程與測試流程改善**\n   • 分析現有人工測試流程，找出適合自動化的測試項目。\n   • 協助建立測試標準、測試資料及自動化測試規範。\n   • 分析自動化測試失敗原因，協助開發團隊快速定位問題。\n   • 與 QA/QC、PM、App 開發及 Backend 開發團隊合作，持續改善產品品質。\n\n6. **AI 輔助測試**\n   • 探索 AI Agent、LLM 等技術於測試案例產生、測試腳本生成、測試結果分析及問題定位的應用。\n   • 協助建立 AI 輔助的自動化測試流程，提升測試開發效率。\n\n### 必要條件\n\n• 具 1 年以上軟體測試、自動化測試或軟體開發經驗。\n• 熟悉 Python 或其他程式語言。\n• 具 Appium、Selenium、Playwright 等任一自動化測試工具經驗。\n• 了解軟體測試基本概念及測試案例設計。\n• 具 Git 版本控制使用經驗。\n• 具問題分析及除錯能力。\n\n### 加分條件\n\n• 具 iOS / Android App 測試經驗。\n• 具 Appium + Python 實務經驗。\n• 具 REST API / Postman / API Automation 測試經驗。\n• 具 CI/CD（GitLab CI、Jenkins 等）實務經驗。\n• 熟悉 Docker 或 Linux 環境。\n• 具 UI 自動化測試框架設計經驗。\n• 具金融、證券、銀行或交易 App 測試經驗。\n• 具測試管理工具導入或建置經驗。\n• 對 AI Agent、LLM 或 AI 輔助軟體測試有興趣或實務經驗。\n\n### 你將參與的工作\n\n• 金融 App 自動化測試平台建置\n• iOS / Android App 自動化測試\n• API 自動化測試\n• Regression Test 自動化\n• CI/CD 測試流程整合\n• 測試工具與框架開發\n• AI 輔助測試與測試自動化研究\n\n### 工作特色\n\n這不只是單純執行測試或撰寫測試腳本的職位，而是希望逐步建立完整的 **Automation Testing / Quality Engineering** 能力。\n\n你將有機會從既有人工測試流程出發，參與測試自動化、框架設計、CI/CD 整合及 AI 輔助測試等工作，將測試流程由人工執行逐步轉型為自動化品質驗證。",
+        "公司名稱": "三竹資訊股份有限公司",
+        "產業描述": "其它軟體及網路相關業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001002017",
+                "description": "Jenkins"
+            },
+            {
+                "code": "12001002018",
+                "description": "Git"
+            },
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001001042",
+                "description": "Android"
+            },
+            {
+                "code": "12001001043",
+                "description": "iOS"
+            },
+            {
+                "code": "12001001008",
+                "description": "Mac OS"
+            },
+            {
+                "code": "12003003056",
+                "description": "Test Scripts"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/962f2"
+    },
+    {
+        "編號": 16,
+        "發布日期": "20260924",
+        "職缺名稱": "全電商營運部-電子商務測試工程師(QE)",
+        "工作內容": "本職位負責電子商務平台（Web/App）及中後台系統的軟體品質保證。您將參與需求分析，制定測試計畫與撰寫測試案例，並運用資料庫查詢與 API 測試工具，對系統功能進行驗證。\n\n主要職責\n\n1. 測試規劃與執行：根據需求規格書（SRS）與設計文件，撰寫測試計畫書（Test Plan）與測試案例（Test Case），並執行功能測試、整合測試。\n2. 問題追蹤與回報：記錄測試步驟、實際結果與預期結果。\n3. 跨團隊溝通：與開發團隊緊密協作，協助排查與重現線上問題。",
+        "公司名稱": "全聯福利中心_全聯實業股份有限公司",
+        "產業描述": "量販流通相關業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/93vb6"
+    },
+    {
+        "編號": 17,
+        "發布日期": "20260924",
+        "職缺名稱": "軟/韌體測試工程師",
+        "工作內容": "我們正在尋找一位具備細心、邏輯分析能力及品質意識的 QA 測試工程師，主要負責公司產品相關軟體、韌體及裝置功能測試。\n此職位除了執行產品功能驗證，也需要從使用者與系統角度思考可能發生的異常情境，協助團隊在產品開發早期發現問題。未來將逐步導入自動化測試，希望您願意學習程式或腳本撰寫，與團隊一起建立更有效率且可重複執行的測試流程。\n主要工作項目\n1.\t依據產品需求文件、設計規格及驗收標準，規劃測試項目與測試方法。\n2.\t撰寫及維護 Test Plan、Test Case、測試紀錄與測試報告。\n3.\t執行軟體、韌體及硬體裝置整合測試，包含：\n        -軟體功能測試\n        -韌體功能測試\n        -軟韌體整合測試\n        -異常情境與邊界條件測試\n        -Regression Test\n4.\t重現、記錄及追蹤測試發現的問題，提供清楚的操作步驟、測試環境及相關資訊。\n5.\t與 PM、軟體工程師及韌體工程師合作，確認需求、問題原因及修正結果。\n6.\t參與產品需求及設計規格 Review，從測試角度提出風險、例外情境及驗收建議。\n7.\t協助建立及維護測試環境、測試資料與標準測試流程。\n8.\t逐步學習並導入自動化測試，將重複性高、適合自動化的測試項目轉換為測試程式或腳本。\n9.\t協助持續改善 QA 流程、測試覆蓋率及產品品質。",
+        "公司名稱": "鯨揚科技股份有限公司",
+        "產業描述": "精密儀器相關製造業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001001007",
+                "description": "Linux"
+            },
+            {
+                "code": "12001001008",
+                "description": "Mac OS"
+            },
+            {
+                "code": "12001001042",
+                "description": "Android"
+            },
+            {
+                "code": "12001001043",
+                "description": "iOS"
+            },
+            {
+                "code": "12001002018",
+                "description": "Git"
+            },
+            {
+                "code": "12001006045",
+                "description": "JIRA"
+            },
+            {
+                "code": "12001002016",
+                "description": "Github"
+            },
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001006017",
+                "description": "JavaScript"
+            },
+            {
+                "code": "12001001020",
+                "description": "Shell"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/94udf"
+    },
+    {
+        "編號": 18,
+        "發布日期": "20260929",
+        "職缺名稱": "Web Automation Test Engineer-F69",
+        "工作內容": "Job Description\n  - Develop and maintain automated test scripts for web applications\n  - Execute automation and regression tests\n  - Assist in maintaining existing automation testing frameworks\n  - Collaborate with developers to identify and report defects\n  - Improve automation scripts to increase test stability\n  - Participate in test case design and testing activities\n\n\nRequirements\n  - 0–2 years experience in software testing or automation testing\n  - Familiar with web automation tools such as Selenium or Playwright\n  - Programming experience in Python\n  - Understanding of software testing methodologies\n\n\nNice to Have\n  - Experience with API testing\n  - Experience with pytest\n  - Experience with Git\n  - Basic knowledge of HTML / CSS / DOM",
+        "公司名稱": "鴻華先進科技股份有限公司",
+        "產業描述": "汽車及其零件製造業",
+        "最低薪資": 55000,
+        "最高薪資": 9999999,
+        "學歷要求代碼清單": [
+            4,
+            5
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001003045",
+                "description": "Python"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8z8x8"
+    },
+    {
+        "編號": 19,
+        "發布日期": "20260929",
+        "職缺名稱": "資訊系統工程師(自動化測試)-台北(軟體技術服務處-軟體測試部)",
+        "工作內容": "協助企業客戶導入自動化測試解決方案，包含測試規劃、腳本設計與工具導入等技術服務工作。\n需具備良好的學習能力與英文閱讀能力，並能配合專案安排提供客戶現場或遠端支援。\n\n主要工作內容：\n1. 負責自動化測試規劃、測試案例設計與測試執行作業。\n2. 測試腳本的錄製、調整與維護。\n3. 協助解決客戶在自動化測試工具使用上的問題，並提供教育訓練。\n4. 依專案需求外出至客戶端提供技術支援服務。\n5. 需閱讀原廠提供之英文教材與技術文件。\n\n基本條件：\n1. 對學習 IT 新技術有高度熱情，喜歡挑戰與解決問題。\n2. 樂觀積極、具備良好的溝通與應對能力。\n3. 可配合專案安排，至客戶現場提供技術服務。\n4. 良好的英文閱讀能力，能理解技術說明與操作指引。\n\n加分條件：\n1. 具備以下任一自動化測試工具實務操作經驗者佳：\n　－ OpenText （原 Micro Focus） LoadRunner 、UFT （Unified Functional Testing／QTP）\n　－ Selenium、JMeter\n　－ IBM Rational Functional Tester （RFT）、Rational Performance Tester （RPT）\n2. 具備程式設計或腳本撰寫經驗者優先考慮。\n\n※ 職等與職稱可於面議討論。",
+        "公司名稱": "日辰資訊股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            3,
+            4,
+            5
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001006013",
+                "description": "HTML"
+            },
+            {
+                "code": "12001006017",
+                "description": "JavaScript"
+            },
+            {
+                "code": "12001006023",
+                "description": "VBScript"
+            },
+            {
+                "code": "12003003020",
+                "description": "LoadRunner"
+            },
+            {
+                "code": "12003003033",
+                "description": "QTP"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/6xzsj"
+    },
+    {
+        "編號": 20,
+        "發布日期": "20260930",
+        "職缺名稱": "軟體工程師（含自動化測試任務）",
+        "工作內容": "1. 參與產品功能開發，撰寫並維護程式碼。\n 2. 規劃並撰寫自動化測試，確保系統穩定性與品質。\n 3. 建立並優化測試流程，與 CI/CD 整合。\n 4. 協助團隊改善程式品質（Code Review、測試覆蓋率提升）。\n 5. 視情況進行手動測試，確保新功能與修正符合需求。",
+        "公司名稱": "新人類資訊科技股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001006017",
+                "description": "JavaScript"
+            },
+            {
+                "code": "12001004031",
+                "description": "MS SQL"
+            },
+            {
+                "code": "12001003006",
+                "description": "ASP.NET"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/7x13g"
+    },
+    {
+        "編號": 21,
+        "發布日期": "20260929",
+        "職缺名稱": "【MyGo AI大數據】Proptech/Fintech-Python後端工程師/資料科學家/數據分析師/資料工程師",
+        "工作內容": "MyGo AI的企業使命就是分析全世界開發地區的房地產大數據，開創先例利用AI創造跨國投資先機。\n\n我們是一群共同組成的高戰鬥力金融科技（Proptech）平台開發團隊，\n可以自建AI 從0 到1 的一群工程師，在台灣做了世界第一個AI房地產大模型。\nMyGo AI 大數據 (https://www.mygo.com/mygoai)\n\n世界獨一無二提供完整的建物/土地鑑價報告，\n正拓展AI房地產鑑價大模型至全世界，邀請您下一步踏入歐美市場的先機。\n房地產與半導體，是全世界2個最重要、最有潛力的結構性數據。\n\n我們正在找具有熱誠、豐富產業經驗、有想法、熱愛『數據清洗』與『數據分析』且期待國際舞台的夥伴的高手，誠摯地邀請您的加入。\n\n\n【工作內容、基本技能】\n\n1. 良好的溝通、學習、Debug、邏輯思考能力 \n2.透過數據收集、清理(ETL)、資料分析、Data Pipeline，協助各部門改善與優化現有流程，提升效率。\n3.使用Python到出神入化境界，能破別人所解不了的乾淨數據。\n4. Python、Selenium、Playwright等 網路爬蟲相關及網站常見反爬蟲策略經驗。 \n5.將分析結果視覺化呈現，利於團隊進行後續決策規劃。\n6. 熟悉 MySQL / maria DB ，能提取與分析數據。\n7. 參與過資料視覺化相關專案開發 。\n8. 使用 Python 及 Django 、 FastAPI經驗。 \n9. 開發過 API系統。\n10.熱愛數據分析，喜愛跨行業/領域的挑戰，願意主動學習非專長領域的相關知識技術。\n\n\n【特別加項】如了以上技能＋特別加項者，請至另一職務應徵AI 資料科學家。\n1. 參與過 GIS 相關專案開發\n2. 參與過網路爬蟲相關專案開發\n3. 參與過高營收產品開發\n4. 熟悉 Docker Compose 撰寫\n5. 熟悉 Docker 建立及管理專案\n6. 使用 Azure 經驗\n7. 使用 MySQL 或 MongoDB 經驗\n8. 使用 Nginx / Apache web server 經驗\n9. 使用 socket.io 經驗\n10. 使用 crontab 經驗\n11. 熟悉 ReactJS 相關 SPA 經驗\n12. 熟悉 Linux 指令\n13. 熟悉 NPM, Yarn 管理模組經驗\n14. 參與過AI、機器學習相關專案開發\n15. 有大型語言模型LLM、RAG、NLP等相關專案開發經驗",
+        "公司名稱": "MyGo商學苑_平安房屋仲介股份有限公司",
+        "產業描述": "不動產經營業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001004018",
+                "description": "ETL"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/6yjxf"
+    },
+    {
+        "編號": 22,
+        "發布日期": "20260930",
+        "職缺名稱": "資料工程師  Data Engineer",
+        "工作內容": "【 資料工程師 ( Data Engineer) 】\n\n在 QSearch，數據是我們最核心的資產。此角色的核心目標是建構公司大數據生態系的「源頭引擎」。您將負責設計、開發與維運可擴展的高速分散式爬蟲系統，與各平台反爬蟲機制正面對決，並優化高併發的 Data Pipeline。這不只是單純的資料抓取，而是需要在效能、系統穩定度與雲端成本（FinOps）之間做出工程智慧取捨的高價值職位。\n\n【 您將在這個職位完成什麼？ 】\n\n◆  分散式爬蟲系統架構與開發 (Architecture & Crawler Engine)\n\n分層架構設計： 開發可擴展的高速分散式爬蟲系統；採分層架構（擷取 Crawler / 解析 Parser / 彙整 Digest），將網頁請求與資料解析解耦，並具備暫存與資料備援機制，以提升穩定度與可替換性。\n\n多元平台數據處理： 處理多種網頁或平台的資料，包含但不限於：社群媒體、影音、新聞、論壇、部落格及內容網站等，並涵蓋跨境與多語系網域。\n\n核心協作： 與其他夥伴協作，完成 API 開發、資料服務介面與自動化／任務編排流程。\n\n技術傳承： 撰寫技術文件、架構圖與維運手冊，提升團隊知識共享與交接效率。\n\n註：團隊目前技術棧以 Python（FastAPI + Pydantic）為主；雲端平台主要運用 Google Cloud Platform（Cloud Run、Cloud Tasks、Cloud Build 等），任務編排朝 Cloud Tasks / Pub-Sub 與自建排程服務發展。如有 AWS 使用經驗為加分，非必要條件。\n\n◆ 反偵測對抗與防禦工事 (Anti-Scraping & Reverse Engineering)\n\n反偵測與來源維運： 研究並突破各平台反爬蟲機制，包含商用 proxy / unblocker 服務之整合與成本控管、自建 Proxy pool、Cookie / Token 生命週期管理。\n\n逆向工程重建： 進行私有 API（GraphQL / XHR）逆向與請求重建，確保數據抓取的極致穩定。\n\n◆ 數據管線維運與品質防禦 (Data Pipeline & Quality Assurance)\n\n品質保障與監控： 建立爬蟲監控與資料品質保障機制，包含資料完整性驗證、回補（backfill）流程、用量與成本 log 追蹤，並快速排除運作障礙。\n\n效能與成本平衡： 持續優化 Data Pipeline 之效能、效率、穩定度與成本，能在效能、穩定度與雲端／第三方服務成本之間做出合理取捨。\n\n【 我們在尋找這樣的您 (必要項目) 】\n\n◆ 核心技術硬實力\n\n1. 2 年以上豐富的 Python 開發實務，具備優秀的模組化設計與全方位的錯誤處理（Error Handling）思維。\n\n2. 具備熟練的網路爬蟲開發經驗，對定期、長時間高負載運行的爬蟲架構有深入實作心得者佳。\n\n3. 精通 HTML/XML、CSS 及 JavaScript 等前端基礎，具備敏銳的網頁結構解構能力，能精準處理並分析動態載入的網頁內容。\n\n4. 深入理解 HTTP 通訊協定與 Web API 技術機制，擁有拆解前端請求（包含 GraphQL / XHR / 各平台私有 API）並進行高度請求重建的逆向實力。\n\n5. 具備現代全文檢索資料庫（如 Elasticsearch、Apache Solr）的核心架構概念，並熟練運用 SQL 進行資料正規化設計。\n\n6. 熟悉 Git 基礎操作與 Git Flow 分支管理，具備良好的團隊程式碼協作精神。\n\n【 如果您具備以下特質，旅程將更精彩 ( 加分項目 ) 】\n\n1. 擁有 GCP（Cloud Run、Cloud Tasks、Cloud Build）的部署與資源管理經驗，若同時具備 AWS 雲端實務則更佳。\n\n2. 熟悉 Python Web 開發框架（如 FastAPI / Flask），並具備運用 Pydantic 進行資料強型別驗證的開發經歷。\n\n3. 曾實際評估或整合第三方資料擷取與代理服務（如 BrightData、Apify、Decodo 等），並在成本、速度與高穩定度之間進行過權衡評估。\n\n4. 具備瀏覽器自動化測試工具（如 Playwright / Selenium / Puppeteer）的操作經驗，或擁有豐富的私有 API 逆向擷取實績。\n\n5. 熟悉 CI/CD 自動化測試與部署流程，曾操作過 Cloud Build 或 GitLab CI 等自動化工具。\n\n6. 具備 Docker 容器化技術，能獨立建立 Image 並進行 Container 部署與管理。\n\n7. 曾運用任務佇列（Task Queue）或 Data Pipeline 編排工具（如 Cloud Tasks、Pub/Sub 或 Airflow）進行大型專案架構設計。\n\n8. 對雲端架構與第三方服務成本具備敏感度，擁有現代雲端財務管理（FinOps）的基礎認知。\n\n9. 擁抱開源文化，曾有參與開源程式碼（Open Source Project）開發或維護的經驗。\n\n【 優渥的福利保障 】\n◆ 彈性假期平衡生活\n\n入職即享彈性：到職第一年即享有 3 天帶薪事假。\n優於法規特休：滿一年後，額外加碼 1～3 日特休。\n延長婚假期限：登記前 10 天到結婚滿一年間皆可使用。\n\n◆ 共享公司成長果實\n\n14薪規劃。\n額外全公司業績分紅，目前正在規劃每年有一個月薪資為獎金池總額的分紅。\n隨著營業額提升的三節禮金或禮品。\n\n◆ 團隊凝聚與共創\n\n每年兩次半年會：上午研討交流，中午快樂餐敘，下午教育訓練與未來展望。\n豐富團隊活動：每季一次團建（Team Building）與一次員工旅遊。\n福利共創計畫：我們持續進化福利制度，歡迎您一同參與提案。\n\n【 這趟旅程的獨特之處 】\n\n在 QSearch，您不是在維護夕陽系統，而是站在大數據的最前線，定義數據採集的「技術上限」。您寫下的每一段逆向工程程式碼、優化的每一條 Pipeline，都直接餵養著公司的 AI 與數據核心，決定了公司產品的競爭優勢。\n\n如果您認同——爬蟲的最高境界是優雅地突破邊界，而資料工程的價值在於將混亂的網絡轉化為結構化的寶藏。那麼，這個角色正為您而設。",
+        "公司名稱": "數解人意科技股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 50000,
+        "最高薪資": 9999999,
+        "學歷要求代碼清單": [
+            3,
+            4
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001002018",
+                "description": "Git"
+            },
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001004032",
+                "description": "MySQL"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/92847"
+    },
+    {
+        "編號": 23,
+        "發布日期": "20260927",
+        "職缺名稱": "QA軟體測試工程師（非派遣、非駐點）",
+        "工作內容": "1. 根據專案/產品需求及業務邏輯量身打造測試計畫，撰寫測試案例，進行自動或手動測試。 \n2. 持續追蹤問題進度，有效管理 Issue 處理情況，產出測試報告及使用建議。 \n3. 熟悉功能測試、軟體整合測試、測試環境建置規劃。 \n4. 撰寫測試報告，提出改善建議，追蹤問題並與開發工程師及PM緊密合作。 \n5. 配合公司專案需求至客戶端進行正式環境的測試服務（非長期駐點）。\n\n加分項目\n1. 熟悉自動化測試、安全性測試及壓力測試。\n2. 熟悉Selenium、JMeter、Bugzilla、Jira等操作。\n3. 熟悉 Web、APP相關測試。",
+        "公司名稱": "潤新資訊股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12003003006",
+                "description": "Bugzilla"
+            },
+            {
+                "code": "12003003020",
+                "description": "LoadRunner"
+            },
+            {
+                "code": "12003003023",
+                "description": "Mantis"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8arj7"
+    },
+    {
+        "編號": 24,
+        "發布日期": "20260921",
+        "職缺名稱": "Proptech/Fintech Python後端工程師/資料科學家",
+        "工作內容": "我們是由一群具有熱誠、豐富產業經驗、有想法的夥伴，所共同組成的高戰鬥力不動產科技（Proptech）平台開發團隊，正在積極地找尋有熱情、有想法的專業人才。只要您是高手或好手，您~ 就是我們需要的合作夥伴，誠摯地邀請您的加入。\n\n此職務內容會針對房地產數據做資料擷取、資料清洗ETL，提供商業分析(BI)、機器學習及視覺化處理等使用，開發設計 API 系統提供前台串接，並供專業經紀人與客戶未來作為評估交易的相關資訊。\n\n【條件要求】\n1. 良好的溝通、學習、Debug、邏輯思考能力\n2. Python、Selenium 網路爬蟲相關經驗及網站常見反爬蟲策略經驗\n3. 熟悉 MySQL / maria DB\n4. 參與過資料視覺化相關專案開發\n5. 使用 Python 及 Django 、 FastAPI經驗\n6. 開發過 API 系統",
+        "公司名稱": "九天資產管理股份有限公司",
+        "產業描述": "不動產經營業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001004018",
+                "description": "ETL"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8tfqn"
+    },
+    {
+        "編號": 25,
+        "發布日期": "20260929",
+        "職缺名稱": "66121-自動化測試軟體工程師",
+        "工作內容": "【工作內容】\n1. 負責 QNAP NAS 相關 App 與服務之自動化測試開發、維護與執行，包含測試腳本、測試工具及測試輔助程式開發。\n2. 參與產品 SPEC review、測試案例設計與維護，從測試風險、自動化可行性及使用者情境角度提出建議。\n3. 執行功能測試、回歸測試、相容性測試與 release 驗證，並針對測試過程中發現的問題進行 Bug 開立、追蹤與驗證。\n4. 協助備份、資料保護與資安相關產品線測試。\n5. 運用 AI 工具協助測試案例整理、Log 初步分析、Bug 判斷、自動化腳本開發與測試報告產出，並與 RD、PM、DQV 團隊合作，持續優化測試流程與 release 品質。\n\n【加分條件】\n・熟悉自動化測試框架 (Pytest / Selenium)\n・具備 API 測試或 Linux 環境操作經驗\n・有敏捷 (Scrum) 或規格驅動開發 (Spec-Driven Development) 實務經驗\n・對 AI 開發工具 (GitHub Copilot / Claude Code 等) 有實際使用經驗\n・對儲存、雲端、網路產品有興趣或相關經驗",
+        "公司名稱": "QNAP_威聯通科技股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001001007",
+                "description": "Linux"
+            },
+            {
+                "code": "12001002018",
+                "description": "Git"
+            },
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001008036",
+                "description": "Scrum"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/941y6"
+    },
+    {
+        "編號": 26,
+        "發布日期": "20260902",
+        "職缺名稱": "資訊處-生成式AI 開發工程師 IT Division - Generative AI Engineer",
+        "工作內容": "1.\t根據項目需求進行前端（包括HTML和JavaScript串接API）或後端（應用Python和MongoDB）開發 \n2.\t撰寫自動化測試腳本（Python Selenium、UiPath），提升測試品質和效率 \n3.\t開發與串接資料管線(ETL)，進行生成式AI資料前處理\n4.\t根據業務需求開發生成式AI應用(如RAG、Agent)  \n5.\t進行弱點掃描和修正工作，確保系統安全性 \n6.\t立進行需求收集和分析，並進行相關的溝通與協調 \n7.    熟悉軟件開發生命週期和敏捷開發方法，並應用於專案管理 \n8.    展現良好的溝通能力和團隊合作精神，推動專案進展\n9.    具體開發角色分工將於面談時確認。 \n1. Develop front-end (HTML, JavaScript, API integration) and back-end solutions using Python and MongoDB.\n2.Build automated testing solutions using tools such as Python Selenium and UiPath to enhance testing quality and efficiency.\n3.Design and develop ETL pipelines and data preprocessing workflows for Generative AI applications.\n4.Develop and implement Generative AI solutions, including Retrieval-Augmented Generation (RAG) and AI Agents.\n5.Perform vulnerability assessments and remediation to ensure system security.\n6.Gather and analyze business requirements, and coordinate with stakeholders throughout the development process.\n7.Apply SDLC and Agile methodologies to software development and project delivery.\n8.Collaborate effectively with cross-functional teams to drive project success.\n9.Specific development responsibilities will be determined based on skills and project needs.",
+        "公司名稱": "永豐商業銀行股份有限公司",
+        "產業描述": "銀行業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8i70m"
+    },
+    {
+        "編號": 27,
+        "發布日期": "20260924",
+        "職缺名稱": "QA 平台測試專員",
+        "工作內容": "一．職務描述：\n\n負責平台系統之測試規劃、測試執行、問題追蹤與上線驗收，需能依據需求文件、系統流程與實際使用情境，規劃完整的 Test Scenario 與 Test Case，協助團隊確保系統功能符合需求、流程正確且品質穩定。\n\n本職務不要求一定具備開發背景，但需具備良好的邏輯思考、細心度、問題整理能力與跨部門溝通能力，能有效協助開發、PM、客服、營運及外部廠商釐清需求與系統問題。\n\n二．工作內容：\n\n1. 協助理解系統需求、操作流程與驗收標準，並與相關部門確認需求細節。\n2. 依據需求文件、系統流程與實際使用情境，規劃測試範圍、Test Scenario 與 Test Case。\n3. 執行系統功能測試、整合測試、回歸測試、異常情境測試與上線前驗收測試。\n4. 針對不同使用者角色、操作流程、資料狀態、權限條件與例外情境，設計完整測試情境。\n5. 測試過程中發現問題時，需清楚記錄問題內容、重現步驟、測試資料、預期結果與實際結果，並協助開發人員釐清問題。\n6. 追蹤 Bug 修正進度，並於修正後進行回歸測試，確認問題已正確解決且未影響既有功能。\n7. 撰寫與維護測試案例、測試紀錄、驗收報告、系統操作說明文件與上線檢查清單。\n8. 配合專案時程安排測試計畫，追蹤測試進度、測試結果與上線前風險。\n9. 協助系統上線前檢查與上線後功能確認，針對異常問題即時回報並持續追蹤。\n10. 協助處理系統需求變更、功能調整、版本更新與維護項目的測試驗證。\n11. 協助與合作廠商進行系統串接測試，確認資料傳遞、操作流程與測試結果是否符合需求。\n12. 協助跨部門溝通協調，包含業務、客服、營運、開發團隊及外部廠商。\n13. 執行主管交辦事項。\n\n三．工作條件：\n\n1. 熟悉 Test Scenario 與 Test Case 的概念，能依據需求文件、使用流程與實際業務情境，規劃完整測試場景與測試案例。\n2. 能將需求內容轉換為可執行、可驗收的測試項目，包含正常流程、異常流程、邊界條件與角色權限情境。\n3. 具備系統測試、功能驗收、需求確認或專案執行相關經驗。\n4. 具備良好的邏輯思考能力，能判斷功能流程是否合理、資料結果是否正確。\n5. 具備良好的問題整理能力，能清楚描述 Bug 發生條件、重現步驟、預期結果、實際結果與影響範圍。\n6. 具備文件撰寫能力，能整理測試案例、測試紀錄、驗收報告、操作說明文件與上線檢查清單。\n7. 具備良好溝通能力，能與開發、PM、客服、營運及外部廠商協作。\n8. 工作細心、主動負責，能追蹤問題處理進度並確保測試項目完成。\n\n四．加分條件：\n\n1. 具備使用測試管理、專案管理或文件協作工具的經驗，例如 Jira、TestRail、Zephyr、ClickUp、Notion、Confluence、Trello 等。\n2. 具備使用 API 或介面測試工具的經驗，例如 Postman、Swagger、Apifox 等。\n3. 有後台管理系統、會員系統、電商平台、金流系統或第三方系統串接測試經驗。\n4. 有基本 SQL 查詢經驗，可協助確認測試資料與系統資料狀態。\n5. 有使用 JMeter 進行基本壓力測試、效能測試或批次測試的經驗。\n6. 有使用 Browser DevTools、Charles 或 Fiddler 查看系統請求與回應資料的經驗。\n7. 有自動化測試工具經驗，例如 Selenium、Playwright、Cypress 等。\n8. 具備基本資安測試概念，例如權限測試、登入驗證、輸入欄位驗證、異常參數測試與資料存取權限檢查。",
+        "公司名稱": "魔競娛樂股份有限公司",
+        "產業描述": "廣告行銷公關業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001008016",
+                "description": "Word"
+            },
+            {
+                "code": "12001008003",
+                "description": "Excel"
+            },
+            {
+                "code": "12001008012",
+                "description": "PowerPoint"
+            },
+            {
+                "code": "12003003056",
+                "description": "Test Scripts"
+            },
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001006034",
+                "description": "Node.js"
+            },
+            {
+                "code": "12001006045",
+                "description": "JIRA"
+            },
+            {
+                "code": "12001008036",
+                "description": "Scrum"
+            },
+            {
+                "code": "12001002017",
+                "description": "Jenkins"
+            },
+            {
+                "code": "12001002016",
+                "description": "Github"
+            },
+            {
+                "code": "12001002018",
+                "description": "Git"
+            },
+            {
+                "code": "12003003018",
+                "description": "Junit"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/9308h"
+    },
+    {
+        "編號": 28,
+        "發布日期": "20260928",
+        "職缺名稱": "T－軟體測試工程師（自動／手動）（台北）",
+        "工作內容": "【自動化測試工程師】\n\n※職務內容\n1. 依產品需求撰寫自動化測試案例，並開發自動化測試工具\n2. 維護現有自動化測試工具\n3. 追蹤分析測試問題，改善自動化測試效率\n\n※職務需求 \n1. 熟悉至少一種程式語言，具備 Python 程式能力者佳\n2. 具備 selenium 或 Postman 自動化測試經驗者佳\n3. 開發及執行壓力測試腳本\n4. 熟悉軟體測試流程者佳\n\n【手動測試工程師】\n\n※職務內容\n1. 建立 Bug 追蹤機制\n2. 撰寫、檢視與維護 Test Case 與 Test Plan\n3. 執行系統測試，以使用者角度測試驗證功能，提出改善優化建議並回報測試結果。 \n4. 優化測試流程 \n5. 撰寫軟體測試方案、測試文檔、有寫測試能力者\n\n※職務需求\n1. 熟悉 Postman, JMeter, Selenium \n2. 熟悉 Web, API, Mobile App等相關測試",
+        "公司名稱": "緯致科技股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001003045",
+                "description": "Python"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/858de"
+    },
+    {
+        "編號": 29,
+        "發布日期": "20260922",
+        "職缺名稱": "QA Engineer 軟體測試工程師",
+        "工作內容": "職務說明\n我們正在尋找一位具備 3–5 年經驗的 QA Engineer，負責 AI 模型服務與資料平台的品質驗證。\n此職位涵蓋手動功能測試、API 自動化測試、資料管線驗證及效能測試。你將與 ML Engineer、Backend Engineer、Data Engineer 及 PM 緊密合作，從需求與設計階段開始參與，建立可持續運行的測試機制，確保產品的正確性、穩定性與效能。\n\n【工作內容】\n1. 測試設計與執行\n   - 依據 PRD、User Story 與 API Spec 撰寫測試計畫、測試案例及驗收條件。\n   - 執行功能測試、整合測試、回歸測試及探索性測試。\n   - 驗證推論 API 的正確性、邊界條件、錯誤處理及併發情境。\n   - 主動發現規格漏洞、使用者風險及潛在品質問題。\n2. 自動化測試\n   - 使用 Python、Pytest、Playwright 或 Postman／Newman 建置及維護 API、整合與 E2E 自動化測試。\n   - 將自動化測試整合至 GitHub Actions、GitLab CI 或 Jenkins 等 CI/CD 流程。\n   - 建立 Pull Request 測試阻擋機制及定期回歸測試排程。\n   - 維護測試資料、Test Fixtures 及 Mock Service，確保測試可重複且彼此隔離。\n3. AI 模型與資料品質驗證\n   - 驗證 AI 模型輸出的一致性、合理性及可重現性。\n   - 建立 Golden Dataset、模型品質基準及回歸測試門檻。\n   - 針對 Accuracy、Latency、Token Cost 等指標執行品質檢查。\n   - 驗證 ETL／ELT 資料管線，包括 Schema 一致性、空值率、重複資料、遺漏資料及時序正確性。\n4. 效能與穩定性測試\n   - 使用 Locust、k6 或 JMeter 執行負載與壓力測試。\n   - 協助找出系統效能瓶頸及資源上限。\n   - 追蹤推論延遲 P50／P95／P99、吞吐量及錯誤率，並與開發團隊共同改善。\n5. 品質流程與跨部門協作\n   - 使用 Jira、Linear 或其他缺陷管理工具追蹤 Bug 生命週期。\n   - 撰寫清楚、可重現並包含完整證據的缺陷報告。\n   - 參與需求評審、技術設計及產品驗收討論。\n   - 產出測試報告與品質指標，例如缺陷密度、缺陷逃逸率及自動化測試覆蓋率。\n\n【必要條件】\n- 具備 3–5 年軟體測試相關經驗，其中至少 1–2 年自動化測試實作經驗。\n- 能獨立使用 Python 撰寫測試腳本，熟悉 requests、pytest 等工具或框架。\n- 熟悉 RESTful API 測試，理解 HTTP Status Code、JWT／API Key 認證、分頁及冪等性。\n- 具備中階 SQL 能力，能使用 JOIN、聚合及視窗函式進行資料比對與驗證。\n- 熟悉 Git、Postman、CI/CD Pipeline 及缺陷追蹤工具。\n- 熟悉測試金字塔、等價分割、邊界值分析及風險導向測試。\n- 具備 Linux 基本操作能力，了解 Docker、Log 查閱及問題定位方式。\n- 能閱讀及撰寫中英文技術文件。\n- 邏輯清晰、重視細節，能主動釐清模糊需求並提出品質風險。\n- 具備良好的跨部門溝通、文件撰寫及主動回報能力。\n\n【福利與文化】\n1.    混合辦公 (Hybrid Mode)： 結合遠端彈性與進辦公室的實體協作，給予你最專業的信任空間。\n2.    優於法令： 每年 7 天全薪病假、生日假，工作之餘也要照顧好生活。\n3.    獎勵機制： 具競爭力的年終獎金、三節禮金，以及與產品成功掛鉤的激勵。\n4.    新創氛圍： 滿滿零食櫃、精品咖啡，以及一群對於技術與金融充滿熱情的隊友。",
+        "公司名稱": "阿蒂瑪有限公司",
+        "產業描述": "廣告行銷公關業",
+        "最低薪資": 60000,
+        "最高薪資": 9999999,
+        "學歷要求代碼清單": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001001007",
+                "description": "Linux"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/9577k"
+    },
+    {
+        "編號": 30,
+        "發布日期": "20260918",
+        "職缺名稱": "【國際化軟體科技公司】QA Engineer",
+        "工作內容": "主要工作內容如下：\n\n負責 Web、Android、iOS 平台之功能測試、整合測試、End-to-End 測試、回歸測試及效能測試\n設計、開發及維護 Web、Mobile 與 API 自動化測試\n使用 Python 開發及優化自動化測試工具與測試框架\n追蹤、記錄並分析產品問題，協助相關團隊釐清問題原因並完成修正\n從實際使用者情境出發，設計測試案例並驗證產品品質與使用體驗\n參與產品需求、規格與驗收標準討論，從 QA 角度提出風險、測試性及品質相關建議\n規劃並持續改善 Test Strategy、測試流程及品質管理機制\n協助自動化工程流程，包含測試框架以外的 QA / Engineering Tool 開發\n參與 Design Review 及 Code Review，提供具建設性的技術回饋\n主動發現現有品質流程、測試覆蓋率或自動化機制中的改善機會\n\n【技術環境】\n\n程式語言：Python\nDatabase：MySQL、MongoDB\nWeb Automation：Selenium、Playwright\nAPI Testing：Postman\nMobile Automation：Appium、Android Studio、Xcode\nDevOps / CI/CD：AWS、Jenkins、GitHub Actions、Kubernetes\n專案管理 / 測試管理：Jira、TestRail\n\n【職務條件】\n\n具 5 年以上 Software QA、Software Testing 或相關經驗\n具實際自動化測試開發經驗，並熟悉 Python\n具良好的 Python 程式設計能力，能設計、維護或優化自動化測試框架\n熟悉 Integration Testing、End-to-End Testing、Regression Testing、Performance Testing、API Testing 等測試方式\n熟悉 Test Design Techniques 與軟體品質管理流程\n具良好的問題分析、Debugging 與跨團隊溝通能力\n能主動參與需求及產品討論，並從品質與可測試性的角度提出建議\n\n【加分條件】\n\n熟悉 Selenium、Playwright 或 Appium\n具 Web、Mobile、API 跨平台自動化測試經驗\n具 Jenkins、GitHub Actions 等 CI/CD 整合經驗\n熟悉 AWS、Kubernetes 等雲端或容器化環境\n曾參與 Automation Framework 設計、重構或導入\n具自動化工具或 Internal Tool 開發經驗",
+        "公司名稱": "百仕聯股份有限公司",
+        "產業描述": "人力仲介代徵",
+        "最低薪資": 100000,
+        "最高薪資": 150000,
+        "學歷要求代碼清單": [
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001003045",
+                "description": "Python"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/95rjk"
+    },
+    {
+        "編號": 31,
+        "發布日期": "20260924",
+        "職缺名稱": "軟體測試工程師",
+        "工作內容": "【工作內容】\n1. 依產品/專案設計之功能項目，擬定 Test Plan 和設計 Test Case\n2. 和相關人員溝通，確認設計、功能需求和規格\n3. 進行API測試、功能測試、壓力測試、使用者體驗、UI測試、APP測試\n3. 問題回饋、問題追蹤，協助各端人員確認 Issue 並加以驗證\n4. 分析測試結果且清楚回報，協助開發團隊解決問題，並持續追蹤回歸測試\n\n【職務條件】\n1. 1年以上 API / App / Web 測試實務經驗\n2. 良好的溝通能力",
+        "公司名稱": "叡廷股份有限公司",
+        "產業描述": "電腦系統整合服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            3,
+            4
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8837b"
+    },
+    {
+        "編號": 32,
+        "發布日期": "20260716",
+        "職缺名稱": "(桃園) 後端工程師｜區塊鏈工具開發 & 自動化腳本方向",
+        "工作內容": "我們是一間由成立超過30年的金融軟體服務公司成立的分公司，主要提供區塊鏈相關週邊工具開發。目前正在擴編團隊，誠摯邀請熟悉 Python 或 Golang 的工程師加入，一同投入一系列有趣具挑戰性且充滿探索性的模組開發任務。\n\n工作內容包含但不限於以下類型任務（將依專案需求分配）：\n\t•\t撰寫自動化任務腳本或模組（以 Python / Golang 為主）\n\t•\t串接外部 API / 資料源並處理回應資料\n\t•\t開發通訊軟體平台機器人（如 Telegram / LINE）\n\t•\t基礎網頁 DOM 操作與資料提取流程設計\n\t•\t協助處理前後端流程間的中介模組與溝通邏輯\n\n 擅長技能與工具：不需全部具備，但請至少熟悉其中幾項\n\t•\tPython / Golang 至少其一\n\t•\t基本 API 串接經驗（熟悉 requests / aiohttp / fetch 等）\n\t•\t熟悉 Git 操作與程式模組管理概念\n\t•\t有基本 Linux 操作能力，能獨立執行腳本與排查錯誤\n\t•\t熟悉 JSON 結構與基礎資料清洗\n\t•\t對自動化腳本、系統整合有興趣",
+        "公司名稱": "捷鵬國際股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            3,
+            4,
+            5
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001003080",
+                "description": "Go"
+            },
+            {
+                "code": "12001006017",
+                "description": "JavaScript"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8sjrz"
+    },
+    {
+        "編號": 33,
+        "發布日期": "20260803",
+        "職缺名稱": "數據專員-Data Specialist",
+        "工作內容": "工作內容\n負責數據蒐集、整理與分析，確保資料正確性與完整性\n針對行銷、營運或業務數據進行分析，提供具體洞察與改善建議\n建立與維護日常報表、追蹤成效指標與數據表現\n協助各部門釐清需求，提供數據支援與分析方案\n維護與優化既有數據流程、報表工具與追蹤機制\n持續關注數據分析工具與方法，提升分析效率與品質\n\n條件需求\n對數據分析、網路行銷或成效追蹤具高度興趣\n熟悉 Python，並具備 Pandas、Numpy 使用經驗\n熟悉 GTM、GA4 及其他 Google 分析工具\n熟悉 Excel 函數 與基本資料整理邏輯",
+        "公司名稱": "丹威國際數位媒體有限公司",
+        "產業描述": "廣告行銷公關業",
+        "最低薪資": 42000,
+        "最高薪資": 9999999,
+        "學歷要求代碼清單": [
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001003045",
+                "description": "Python"
+            },
+            {
+                "code": "12001004032",
+                "description": "MySQL"
+            },
+            {
+                "code": "12001008003",
+                "description": "Excel"
+            },
+            {
+                "code": "12001011002",
+                "description": "Google Analytics"
+            },
+            {
+                "code": "12001011003",
+                "description": "Google Tag Manager"
+            },
+            {
+                "code": "12001011001",
+                "description": "Tableau"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/7pmc6"
+    },
+    {
+        "編號": 34,
+        "發布日期": "20260730",
+        "職缺名稱": "QA自動化測試工程師_QA Automation Engineer",
+        "工作內容": "【工作內容】 \n- 測試計劃(test plan)規劃、撰寫測試案例（E2E）、建置、維護測試環境\n- 開發、維護Web及APP自動化測試腳本\n- 協助開發與維護Web及APP系統壓力測試與效能測試\n- 偶爾會需要協助手動測試\n- 追蹤並記錄產品問題，且可透過工具分析，回饋相關人員進行修正\n\n【工作模式】 \n彈性居家辦公：入職後可視工作安排與個人需求彈性居家辦公，每周除團隊指定時間須於辦公室辦公，其他時間可自由安排工作模式。\n\n【技能需求】 \n- 熟悉 Selenium、Katalon、Appium、Airtest、Cypress.io等程式撰寫，任一即可\n- 熟悉Git操作指令\n- 熟悉CI / CD流程\n\n【加分條件】\n- 具備系統壓力測試、效能與API測試相關經驗者\n- 熟悉Docker",
+        "公司名稱": "英屬維京群島商幫你優股份有限公司台灣分公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 600000,
+        "最高薪資": 900000,
+        "學歷要求代碼清單": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/6w8xi"
+    },
+    {
+        "編號": 35,
+        "發布日期": "20260914",
+        "職缺名稱": "測試工程師",
+        "工作內容": "HOYA BIT 致力成為加密貨幣初學者的最佳信任夥伴，我們致力研究加密貨幣的解決場景，並針對用戶需求提供解決方案，讓加密貨幣便利每個人的生活!\n\n經營理念\n享受工作與生活\n當你踏入 HOYA BIT 後，你會發現我們致力讓員工創造與突破，高成就感與高報酬是讓每一個夥伴全力以赴的原動力!\n\n高度成長與不斷創新\nHOYA BIT 鼓勵每一位的夥伴不斷創新，唯有求新求變才能撼動市場，為此我們也提供每位夥伴學習經費，並透過每個月的內部交流及外部講座提升每一個夥伴的能力！\n\n客戶至上的服務模式\n由於 HOYA BIT 是主打新手友善的加密貨幣交易所，所以我們以積極熱情的精神來服務我們的客戶，並致力透過每一個用戶的回饋來改善 HOYA BIT 的產品及服務，唯有熱情擁抱用戶，才能得到用戶的最高信任。\n\n我們相信越好的人才就需要越少的管理，所以在管理上我們只要求夥伴們尊重會議所決定的專案期程，在過程中若遇任何困難都請「即時提出」、才能「及時解決」，在辦公部份我們也致力打造讓大家都能舒適工作的環境。\n\n\n【工作內容】\n1. 根據產品需求與規格文件，撰寫並維護測試計畫、測試案例與測試報告\n2. 執行功能測試、回歸測試、壓力測試、使用者情境測試等，確保產品品質\n3. 針對開發中或上線前的功能進行風險評估與測試策略規劃\n4. 協助開發團隊進行問題重現、追蹤與除錯，並針對BUG進行分類與管理\n5. 與 PM、RD、設計等團隊密切合作，確認需求、API 接口與驗收標準\n6. 整合並運用自動化測試工具進行測試流程優化，提高測試效率與覆蓋率\n7. 協助建置 CI/CD 測試流程與品質控管機制\n8. 協助撰寫與維護測試相關文件與知識庫，推動測試流程標準化\n9. 定期回顧測試成效並提出改善建議，參與品質策略討論與推動\n\n【必備條件】\n1. 能根據規格文件所設計之功能與需求，撰寫 TestCase 與相關測試文件\n2. 具備依據 TestCase 規劃測試策略與執行測試計畫之能力\n3. 理解並能執行各類測試方法，如功能測試、使用者情境測試、壓力測試等\n4. 了解前後端邏輯分界與相關運作模式, 理解功能實作邏輯和API參數作用\n5. 熟悉軟體開發流程, 與專案進行生命週期\n6. 能與跨部門人員有效溝通，具備良好溝通技巧與情緒管理能力",
+        "公司名稱": "禾亞數位科技股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 800000,
+        "最高薪資": 9999999,
+        "學歷要求代碼清單": [
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/7kq85"
+    },
+    {
+        "編號": 36,
+        "發布日期": "20260930",
+        "職缺名稱": "資安系統_測試工程師(24012901)",
+        "工作內容": "工作內容包含：\n自動化測試產品的專案規劃、建置及導入\n客戶售後服務、教育訓練及相關技術支援。\n產品操作手冊、維護手冊等技術文件撰寫。\n協助客戶使用自動化測試工具並執行教育訓練。\n協助客戶撰寫測試案例並錄製為測試腳本。\n本項工作參考條件:\n1. 熟悉Appium、Selenium 與 XCUITest等測試工具尤佳\n2.熟悉撰寫與維護測試計畫(Test Plan)與測試案例(Test Case)\n3. 曾有建置測試環境並執行功能測試(function)、使用者測試(Usability )、壓力測試(Stress)、回歸測試(Regression)、性能測(Performance)、軟韌體整合測試\n4. 熟悉撰寫測試報告、分析測試資料、問題追蹤處理(Bug tracking)、釐清問題、提出改善建議及後續追蹤\n5. 曾參與軟體專案導入自動化測試方法及工具尤佳\n6. 對服務客戶有熱忱，與客戶專案執行中共同學習成長\n\n請參考官網產品介紹：\nhttps://www.gss.com.tw/experitest",
+        "公司名稱": "叡揚資訊股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001008003",
+                "description": "Excel"
+            },
+            {
+                "code": "12001008012",
+                "description": "PowerPoint"
+            },
+            {
+                "code": "12001008016",
+                "description": "Word"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/886bj"
+    },
+    {
+        "編號": 37,
+        "發布日期": "20260924",
+        "職缺名稱": "(DeepQ)User Experience Software Engineer 使用者經驗軟體工程師-DQ000001",
+        "工作內容": "1. Architect, design, and develop automated/manual solutions to expedite testing.\n2. Review bug descriptions, functional requirements, and design documents, incorporating this information into test plans and test cases.\n3. Review application to identify usability issues and UI improvements & enhancements\n4. New tech/application survey, design, and the ability to host a workforce to implement",
+        "公司名稱": "宏達電 HTC Corporation_宏達國際電子股份有限公司",
+        "產業描述": "消費性電子產品製造業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/89i21"
+    },
+    {
+        "編號": 38,
+        "發布日期": "20260723",
+        "職缺名稱": "自動化測試工程師-可全遠端",
+        "工作內容": "我們正在尋找熱愛品質控管、熟悉自動化測試流程的你！\n不論你喜歡全遠端工作還是到辦公室共事，我們都有適合的機會。\n\n工作內容\n1.設計與維護功能及回歸測試之自動化測試腳本（Web、APP、後端、遊戲等）\n\n2.撰寫測試計畫、測試報告與缺陷回報\n\n3.建置與維護自動化測試環境與架構\n\n4.執行系統壓力測試、效能測試與 API 測試，提供優化建議\n\n5.與開發團隊協作，協助除錯與問題追蹤\n-------------------------------------------------------------------------------------------\n\n職務需求\n＃具 3 年以上軟體測試經驗（含 2 年以上自動化經驗）者佳；經歷不足但具備技術能力者亦可\n\n＃熟悉 Python、JavaScript 或 Selenium、Appium、Playwright 等自動化框架\n\n＃熟悉 Git 版本控制與 CI/CD 流程\n\n＃英文中等程度\n\n！！加分條件：\n\n1.有遊戲或手機/Web 測試經驗\n\n2.熟悉 Playwright、AltTester\n\n3.具壓力測試與 API 測試經驗",
+        "公司名稱": "谷戈耳科技有限公司",
+        "產業描述": "網際網路相關業",
+        "最低薪資": 45000,
+        "最高薪資": 80000,
+        "學歷要求代碼清單": [
+            4
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8sw7u"
+    },
+    {
+        "編號": 39,
+        "發布日期": "20260918",
+        "職缺名稱": "Engineer in Test (土城)",
+        "工作內容": "負責測試智慧城市應用之功能、效能與安全性，建立自動化測試流程與品質驗證標準\n1. 熟悉自動化測試框架（如Selenium、Cypress）\n2. 具備CI/CD下測試流程設計經驗\n3. 熟悉API測試與效能測試工具\n4. 能撰寫測試計畫與測試案例",
+        "公司名稱": "鴻海精密工業股份有限公司",
+        "產業描述": "消費性電子產品製造業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8pbmv"
+    },
+    {
+        "編號": 40,
+        "發布日期": "20260819",
+        "職缺名稱": "Senior Software Development Engineer in Test",
+        "工作內容": "We are seeking a Senior Software Development Engineer in Test to take technical ownership of quality architecture across our physical AI vision platforms. This role is deeply focused on our NVIDIA Jetson-based edge AI cameras, localized inference engines, and low-latency video processing pipelines.\n\nIn this role, you will design, build, and maintain the complex automated testing frameworks that ensure the reliability, performance, and accuracy of our mission-critical hardware and embedded software. This is a highly autonomous, hands-on role where you will operate at the intersection of hardware, embedded linux, dockerized edge applications, and AIoT architectures. You will define and execute the overarching programmatic quality strategy for complex devices deployed in rigorous, real-world manufacturing environments.\n\n【What you'll do】\n\nAutomated End-to-End Testing: Design and execute fully programmatic E2E test flows that simulate real-world manufacturing inputs (e.g., synthetic video streams), trigger local NVIDIA Jetson inference, and validate web application functionality with physical or network outputs within a strict environment.\n\nEdge Automation Architecture: Architect and develop robust automated testing frameworks from scratch using Python, specifically targeting embedded Linux systems and edge AI devices.\n\nWeb Application & API Testing: Develop and maintain automated UI and API test suites for the web applications and local interfaces used by customers to configure, monitor, and interact with our vision systems.\n\nHardware-in-the-Loop (HIL) Testing: Build and scale HIL testing infrastructure to simulate factory environments, stress-testing physical camera systems under real-world compute, memory, and thermal constraints.\n\nSystem-Level Debugging: Investigate complex failures spanning physical hardware, custom baseboards, Linux OS kernels, local network protocols (TCP/IP, RTSP), web application layers, and edge Docker containers.\n\n【Why join】\n\nHigh Agency, Zero Bureaucracy: You are coming in as a Senior Engineer, not a ticket-taker. You define the test architecture. You pick the tools. You decide how we validate our products. We hire smart people and get out of their way.\n\nHigh Autonomy: We believe in highly autonomous and creative builders. You will have high ownership over your specific hardware and software testing domain.\n\nWork Smarter, Not Harder: We don't just build AI; we use it. We love that you want to use AI agents to solve problems. We don't measure hours; we measure leverage. If you can use an AI agent to automate 80% of the grunt work, we’ll high-five you, not ask why you aren't typing.\n\nGrowth: Join a fast-growing, fast-moving, and profitable startup.",
+        "公司名稱": "Overview_美商奧維達智能股份有限公司",
+        "產業描述": "電腦軟體服務業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/93xxz"
+    },
+    {
+        "編號": 41,
+        "發布日期": "20260915",
+        "職缺名稱": "星醫美學集團-手動測試工程師／Web QA Engineer",
+        "工作內容": "【工作內容】  \n我們相信，好的產品來自每一位團隊成員的細心與參與團隊討論，願意提問、接受指導，也樂於分享觀察與建議。\n\n1. 協助執行網站測試工作，包含功能測試、介面檢查、流程驗證與基本資料確認。\n2. 根據需求撰寫與維護測試案例、測試紀錄與錯誤報告，追蹤缺陷修復進度並安排回歸驗證。\n3. 使用測試工具進行 API 測試與手動操作測試，確認功能與資料回應是否符合預期。\n4. 與 PM、設計、開發團隊協作，確認需求細節、提出測試觀察與回饋。\n5. 協助追蹤與驗證問題修正狀況，執行回歸測試，確保問題已被妥善處理。\n\n【我們希望你具備】\n1. 對軟體測試工作有興趣，願意持續學習測試流程、方法與工具。\n2. 具備邏輯思考與細心觀察能力，能主動發現流程中可能的問題點。\n3. 具備 Excel / Google Sheets 製作測試清單與報告能力\n4. 熟悉 HTML、CSS、JavaScript 基礎概念，能用 Browser DevTools 檢查問題\n\n【加分條件】\n1. 了解 Postman 或其他 API 測試工具使用方式。\n2. 使用過 Jira、Redmine 或其他 Issue Tracking 工具。\n3. 具備 Git 基本操作概念。\n5. 曾接觸 MySQL、PostgreSQL 等資料庫查詢，或具基本 SQL 概念者佳。\n6. 若曾接觸 Cypress、Playwright、Selenium 等自動化測試工具更佳。",
+        "公司名稱": "星醫美學股份有限公司",
+        "產業描述": "診所",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            3,
+            4,
+            5
+        ],
+        "具體的軟硬體技能要求": [
+            {
+                "code": "12001006017",
+                "description": "JavaScript"
+            },
+            {
+                "code": "12001006013",
+                "description": "HTML"
+            },
+            {
+                "code": "12001006032",
+                "description": "CSS"
+            },
+            {
+                "code": "12001002018",
+                "description": "Git"
+            },
+            {
+                "code": "12001008003",
+                "description": "Excel"
+            },
+            {
+                "code": "12001004039",
+                "description": "PostgreSQL"
+            }
+        ],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8qqyg"
+    },
+    {
+        "編號": 42,
+        "發布日期": "20260918",
+        "職缺名稱": "軟體測試工程師_汐止UTOWN",
+        "工作內容": "SQA (Software Quality Assurance) is tasked with creating test plans and test cases, executing tests, reporting bugs, producing detailed test reports, and and find out issues to avoid bad user experience. \n• Generate detailed test plans and test cases for software features. \n• Evaluate products with integrated firmware to identify deficiencies.\n• Investigate product quality to identify areas for improvement, aiming to get batter user experience. \n• Collaborate with the development team, including coworkers from Asia and worldwide, to estimate, prioritize, plan, and coordinate quality testing event.\n• Work with the testing team to create an automated testing tool, aiming to reduce the effort required for product testing.",
+        "公司名稱": "GARMIN_台灣國際航電股份有限公司",
+        "產業描述": "電信相關業",
+        "最低薪資": 0,
+        "最高薪資": 0,
+        "學歷要求代碼清單": [
+            4,
+            5,
+            6
+        ],
+        "具體的軟硬體技能要求": [],
+        "目前應徵人數": 0,
+        "工作連結": "https://www.104.com.tw/job/8ql7q"
+    }
+]
